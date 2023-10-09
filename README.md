@@ -27,4 +27,4 @@ Este é um projeto simples de uma lâmpada virtual que pode ser ligada, desligad
 
 Se você quiser contribuir para este projeto, fique à vontade para abrir uma issue ou enviar uma solicitação de pull request.
  
-Espero que você ache este projeto divertido de usar!!! Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato 
+Espero que você ache este projeto divertido de usar!!! Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato.
